@@ -1,0 +1,2 @@
+terminals: ["yarn install && yarn nodemon"]
+tabs: ["index.js"]

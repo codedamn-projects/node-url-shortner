@@ -1,0 +1,15 @@
+{
+	"name": "node-url-shortner",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/codedamn-projects/node-url-shortner.git",
+	"author": "Pranav <pranav.techiegeek@gmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"express": "^4.18.2",
+		"nodemon": "^2.0.21"
+	},
+	"scripts": {
+		"nodemon": "nodemon index.js"
+	}
+}
